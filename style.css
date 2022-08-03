@@ -1,0 +1,29 @@
+.container{
+    width: 600px;
+    background-color: rgb(209, 209, 209);
+    margin-top: 40px;
+    border: 1px solid ;
+}
+
+.title{
+    display: flex;
+    justify-content: center;
+    font-weight: bold;
+}
+
+.input{
+    border: 1px solid;
+}
+
+#paises{
+    border: 1px solid;
+    border-radius: 40px;
+}
+
+.textarea{
+    border: 1px solid;
+}
+
+.button{
+    border: 1px solid;
+}
